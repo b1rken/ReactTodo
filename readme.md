@@ -1,1 +1,1 @@
-Birks Custom React Boilerplate Template
+Birks React Todo App
